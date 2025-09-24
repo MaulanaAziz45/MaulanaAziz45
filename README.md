@@ -38,12 +38,12 @@ Saya suka membangun project kecil hingga menengah dan berkolaborasi team untuk m
 
 ##
 
-<div align="center">
+<div>
 
 <!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=MaulanaAziz45&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaulanaAziz45&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 
 </div>
