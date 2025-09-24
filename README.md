@@ -39,7 +39,8 @@ Saat ini saya fokus mempelajari HTML, CSS, PHP, dan MySQL, dengan menggunakan si
 
 ##
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MaulanaAziz45&theme=tokyonight&hide_border=true)
+![Snake animation](https://github.com/MaulanaAziz45/MaulanaAziz45/blob/output/dist/snake.svg)
+
 
 
 <div>
