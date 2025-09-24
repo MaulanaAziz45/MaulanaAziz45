@@ -5,7 +5,12 @@
 
 # Halo 👋, Saya Maulana Aziz  
 
-💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner  
+💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner 
+
+Saya adalah mahasiswa Informatika yang tertarik pada pengembangan web secara fullstack.  
+Saat ini saya fokus mempelajari **HTML, CSS, PHP, Python, JavaScript, dan MySQL**, dengan sistem operasi harian menggunakan **Ubuntu**.  
+Saya suka membangun project kecil hingga menengah dan berkolaborasi team untuk melatih skill
+
 
 ## 🚀 Tentang Saya  
 - 🌱 Sedang mempelajari **PHP, laravel dan Sistem Basis Data**  
@@ -30,3 +35,11 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
 </p>
+
+##
+
+## 📌 GitHub Summary Cards  
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME_KAMU&theme=tokyonight)  
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USERNAME_KAMU&theme=tokyonight)  
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=USERNAME_KAMU&theme=tokyonight)  
