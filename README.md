@@ -4,9 +4,10 @@
 
  
 <h1 align="left">Halo 👋, Saya Maulana Aziz</h1>
+
 <span align="left">💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner</span>
 
-## 🚀 Tentang Saya 
+**🚀 Tentang Saya** 
 
 **Saya adalah mahasiswa Informatika yang tertarik pada pengembangan web secara fullstack.  
 Saat ini saya fokus mempelajari HTML, CSS, PHP, dan MySQL, dengan menggunakan sistem operasi Windows dan Ubuntu.**
