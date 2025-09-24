@@ -7,8 +7,6 @@
 
 💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner
 
-##
-
 ## 🚀 Tentang Saya 
 
 **Saya adalah mahasiswa Informatika yang tertarik pada pengembangan web secara fullstack.  
