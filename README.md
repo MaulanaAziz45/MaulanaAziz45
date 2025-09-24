@@ -3,12 +3,8 @@
 </p>
 
  
-<h1 align="left">
-  Halo 👋, Saya Maulana Aziz <br/>
-  <span style="font-size: 8px; : normal;">
-    💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner
-  </span>
-</h1>
+<h1 align="left">Halo 👋, Saya Maulana Aziz</h1>
+<span align="left">💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner</span>
 
 ## 🚀 Tentang Saya 
 
