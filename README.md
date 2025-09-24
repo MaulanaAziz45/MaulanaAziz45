@@ -39,6 +39,9 @@ Saat ini saya fokus mempelajari HTML, CSS, PHP, dan MySQL, dengan menggunakan si
 
 ##
 
+![GitHub Streak](https://streak-stats.demolab.com?user=username&theme=tokyonight&hide_border=true)
+
+
 <div>
 
 <!-- Stats -->
