@@ -2,10 +2,12 @@
   <img src="https://img.itch.zone/aW1hZ2UvMjY0NjQ5OC8xNTc2ODE2OC5naWY=/original/3fQ0vL.gif" width="100%" height="250">
 </p>
 
+ 
+<h1 align="left">Halo 👋, Saya Maulana Aziz</h1>
 
-# Halo 👋, Saya Maulana Aziz  
+💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner
 
-💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner 
+##
 
 ## 🚀 Tentang Saya 
 
