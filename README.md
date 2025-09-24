@@ -8,7 +8,7 @@
 💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner 
 
 Saya adalah mahasiswa Informatika yang tertarik pada pengembangan web secara fullstack.  
-Saat ini saya fokus mempelajari **HTML, CSS, PHP, Python, JavaScript, dan MySQL**, dengan sistem operasi harian menggunakan **Ubuntu**.  
+Saat ini saya fokus mempelajari **HTML, CSS, PHP, Python, JavaScript, dan MySQL**, dengan menggunakan sistem operasi **Windows dan Ubuntu**.  
 Saya suka membangun project kecil hingga menengah dan berkolaborasi team untuk melatih skill
 
 
@@ -38,8 +38,6 @@ Saya suka membangun project kecil hingga menengah dan berkolaborasi team untuk m
 
 ##
 
-## 📌 GitHub Summary Cards  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME_KAMU&theme=tokyonight)  
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USERNAME_KAMU&theme=tokyonight)  
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=USERNAME_KAMU&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
