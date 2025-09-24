@@ -7,15 +7,16 @@
 
 💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner 
 
+## 🚀 Tentang Saya 
+
 **Saya adalah mahasiswa Informatika yang tertarik pada pengembangan web secara fullstack.  
-Saat ini saya fokus mempelajari HTML, CSS, PHP, dan MySQL, dengan menggunakan sistem operasi Windows dan Ubuntu.  
-Saya suka membangun project kecil hingga menengah dan berkolaborasi team untuk melatih skill**
+Saat ini saya fokus mempelajari HTML, CSS, PHP, dan MySQL, dengan menggunakan sistem operasi Windows dan Ubuntu.**
 
+- 💡 Tertarik mengeksplorasi teknologi baru di dunia web  
+- 🤝 Terbuka untuk project kolaborasi tim 
+- 📚 Selalu berusaha meningkatkan problem-solving
+- ☕ Ngoding sambil ngopi biar makin produktif
 
-## 🚀 Tentang Saya  
-- 🌱 Sedang mempelajari **PHP, laravel dan Sistem Basis Data**  
-- 🎯 Tujuan Menjadi **Fullstack Web Developer**  
-- ☕ Ngoding sambil ngopi  
 ##
 
 **🛠️ Tech Stack**  
@@ -44,6 +45,6 @@ Saya suka membangun project kecil hingga menengah dan berkolaborasi team untuk m
 <img src="https://github-readme-stats.vercel.app/api?username=MaulanaAziz45&show_icons=true&theme=light" alt="GitHub Stats" height="160" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaulanaAziz45&layout=compact&theme=gruvbox_light" alt="Top Languages" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaulanaAziz45&layout=compact&theme=light" alt="Top Languages" height="160" />
 
 </div>
