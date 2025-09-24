@@ -5,7 +5,7 @@
  
 <h1 align="left">
   Halo 👋, Saya Maulana Aziz <br/>
-  <span style="font-size: 20px; font-weight: normal;">
+  <span style="font-size: 8px; : normal;">
     💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner
   </span>
 </h1>
