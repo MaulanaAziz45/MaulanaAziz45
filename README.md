@@ -4,7 +4,6 @@
 
  
 <h1 align="left">Halo 👋, Saya Maulana Aziz</h1>
-
 💻 Mahasiswa Informatika | Web Developer Enthusiast | Open Source Learner
 
 ## 🚀 Tentang Saya 
