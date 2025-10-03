@@ -39,8 +39,6 @@ Saat ini saya fokus mempelajari HTML, CSS, PHP, dan MySQL, dengan menggunakan si
 
 ##
 
-![Snake animation](https://github.com/MaulanaAziz45/MaulanaAziz45/blob/output/dist/snake.svg)
-
 
 
 <div>
